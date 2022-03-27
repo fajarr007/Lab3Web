@@ -1,3 +1,3 @@
 # Lab3Web
 
-![p](gambar/ss.png) :pray:
+# NAMA  : IBNU FAJAR

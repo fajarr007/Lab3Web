@@ -1,3 +1,3 @@
 # Lab3Web
 
-![p](gambar/ss.png)
+![p](gambar/ss.png) :pray:

@@ -25,6 +25,6 @@
 
 <br>**2. File Kedua Dinamakan "Lab3_list.html"**
 <br>Disini yang pertama, kalian membuat kode perintah seoerti gambar berikut:
-<br>![p](gambar/gblist1.png)
+<br>![p](gambar/gbtabel1.png)
 
 

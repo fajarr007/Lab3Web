@@ -27,5 +27,6 @@
 <br>Disini yang pertama, kalian membuat kode perintah seoerti gambar berikut:
 <br>![p](gambar/gbtabel1.png)
 <br>Seperti biasa kalian run dan lihat hasilnya digoogle crome.
+<br>![p](gambar/gbtabel2.png)
 
 

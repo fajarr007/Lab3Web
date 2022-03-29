@@ -19,3 +19,4 @@
 <br>![p](gambar/gblist4.png)
 
 <br>Dan yang ketiga, Kalian lakukan pembuatan *Description List* dengan menambahkan kode perintah seperti gambar berikut:
+<br>![p](gambar/gblist5.png)

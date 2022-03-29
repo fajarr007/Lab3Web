@@ -15,4 +15,5 @@
 
 <br>Dan yang kedua yang kalian lakuan Membuat *Unorderd List* dengan menambahkan kode perintah seperti gambar berikut:
 <br>![P](gambar/gblist3.png)
-<br>Seprti biasa kalian 
+<br>Seprti biasa kalian run dan lihat hasilnya digoogle crome.
+<br>![p](gambar/gblist4.png)

@@ -10,3 +10,5 @@
 <br>**File Pertama Dinamakan "Lab3_list.html"**
 <br>Disini yang pertama kita lakukan Membuat *Ordered List* seperti gambar berikut:
 <br>![p](gambar/gblist1.png)
+<br>Seprti biasa kalian dirun dan lihat hasilnya digoogle crome.
+<br>![p](gambar/gblist2.png)

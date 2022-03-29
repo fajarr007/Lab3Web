@@ -26,5 +26,6 @@
 <br>**2. File Kedua Dinamakan "Lab3_list.html"**
 <br>Disini yang pertama, kalian membuat kode perintah seoerti gambar berikut:
 <br>![p](gambar/gbtabel1.png)
+<br>Seperti biasa kalian run dan lihat hasilnya digoogle crome.
 
 

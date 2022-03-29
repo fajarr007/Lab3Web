@@ -23,6 +23,8 @@
 <br>Seprti biasa kalian run dan lihat hasilnya digoogle crome.
 <br>![p](gambar/gblist6.png)
 
-<br>
+<br>**2. File Kedua Dinamakan "Lab3_list.html"**
+<br>Disini yang pertama, kalian membuat kode perintah seoerti gambar berikut:
+<br>![p](gambar/gblist1.png)
 
 

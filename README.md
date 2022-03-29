@@ -2,5 +2,5 @@
 
 # NAMA  : IBNU FAJAR
 # NIM   : 312010420
-# kelas : TI. 20. A1
+# KELAS : TI. 20. A1
 

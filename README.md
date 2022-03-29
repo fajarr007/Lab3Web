@@ -10,8 +10,9 @@
 <br>**File Pertama Dinamakan "Lab3_list.html"**
 <br>Disini yang pertama kalian lakukan Membuat *Ordered List* dengan kode perintah seperti gambar berikut:
 <br>![p](gambar/gblist1.png)
-<br>Seprti biasa kalian dirun dan lihat hasilnya digoogle crome.
+<br>Seprti biasa kalian run dan lihat hasilnya digoogle crome.
 <br>![p](gambar/gblist2.png)
 
 <br>Dan yang kedua yang kalian lakuan Membuat *Unorderd List* dengan menambahkan kode perintah seperti gambar berikut:
 <br>![P](gambar/gblist3.png)
+<br>Seprti biasa kalian 

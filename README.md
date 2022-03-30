@@ -34,3 +34,6 @@
 <br>Seperti biasa kalian run dan lihat hasilnya digoogle crome.
 <br>![p](gambar/gbtabel4.png)
 
+<br>**3. File Ketiga Dinamakan "Lab3_from.html**
+<br>Pada file terakhir ini, Kalian pertama Membuat kode perintah seperti gambar berikut:
+<br>![p](gambar/gbfrom1.png)

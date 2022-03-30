@@ -29,4 +29,7 @@
 <br>Seperti biasa kalian run dan lihat hasilnya digoogle crome.
 <br>![p](gambar/gbtabel2.png)
 
+<br>Dan yang kedua, kalian lakukan *Penggabungan Sel Data* dengan mengubah kode perintah seprti gambar berikut:
+<br>![p](gambar/gbtabel3.png) 
+
 

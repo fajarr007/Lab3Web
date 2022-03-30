@@ -41,3 +41,4 @@
 <br>![p](gambar/gbfrom2.png)
 
 <br>Dan yang kedua, Kalian lakuan penambahan *Style pada Form* Agar tampilan form lebih menarik, bisa ditambahkan CSS dengan menambahkan kode seperti gambar berikut:
+<br>![p](gambar/gbfrom3.png)

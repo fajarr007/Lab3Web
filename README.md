@@ -42,3 +42,5 @@
 
 <br>Dan yang kedua, Kalian lakuan penambahan *Style pada Form* Agar tampilan form lebih menarik, bisa ditambahkan CSS dengan menambahkan kode seperti gambar berikut:
 <br>![p](gambar/gbfrom3.png)
+<br>Seperti biasa kalian run dan lihat perubahannya digoogle crome.
+<br>![p](gambar/gbfrom4.png)
